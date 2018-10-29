@@ -1,4 +1,4 @@
-# atools
+# atools 介绍
 1.pingyingdange.sh  批量修改名字 单个文件
 使用：放到套图 当前文件夹下 执行命令 即可
 #命令行参数 1原来的名字 2 修改的名字
@@ -35,12 +35,13 @@ zhong wen
 
 
 
+# contribute 
 如果本 工具 对你有较大的帮助，欢迎捐赠 
 
 
 ![image](https://github.com/cain07/atools/blob/master/WX20181029110830.png)
 
-欢迎交流
+# 欢迎交流
 
 wx zhenai907
 
