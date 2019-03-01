@@ -15,6 +15,7 @@ list_alldir(){
     done  
 }  
 
+
 name1="$1"
 name2="$2"
 #testif 测试
